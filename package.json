@@ -1,0 +1,17 @@
+{
+  "name": "red-dawn-syntax",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "Goes great with the Red Dawn UI. Brick red background with a dark tone.",
+  "keywords": [
+    "syntax",
+    "theme",
+    "red",
+    "dark"
+  ],
+  "repository": "https://github.com//UniWrighte//Red-Dawn-Syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
