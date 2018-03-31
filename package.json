@@ -9,7 +9,7 @@
     "red",
     "dark"
   ],
-  "repository": "https://github.com//UniWrighte//Red-Dawn-Syntax",
+  "repository": "https://github.com/UniWrighte/Red-Dawn-Syntax",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
